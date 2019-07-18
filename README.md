@@ -1,4 +1,4 @@
-# _Rock, Paper, Scissors_
+# _Coin_Calculator_
 
 #### _Pair Project for Week 8 at the coding school, Epicodus, written on July 18, 2019._
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_This application is a lesson project from a Ruby coding class at Epicodus._
+_This application is a lesson project from a Ruby coding class at Epicodus. It is a program that takes an amount of cents from the user and returns the smallest number of coins to represent that amount._
 
 ## Setup/Installation Requirements
 
@@ -29,7 +29,7 @@ _No known bugs_
 
 ## Support and contact details
 
-_Please contact us if you have any issues at: guviner@gmail.com & fatherofdharma@gmail.com._
+_Please contact us if you have any issues at: taebumlee@gmail.com & fatherofdharma@gmail.com._
 
 ## Technologies Used
 
@@ -37,7 +37,6 @@ _Please contact us if you have any issues at: guviner@gmail.com & fatherofdharma
 * RubyGems
 * Atom
 * GitHub
-
 
 ### License
 _This software is licensed under MIT license._
